@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain_fireworks
+langchain-experimental
+neo4j
+wikipedia
+tiktoken
+yfiles_jupyter_graphs
+dotenv
